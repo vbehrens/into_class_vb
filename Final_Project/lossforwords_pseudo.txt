@@ -1,0 +1,7 @@
+#create a dictionary for all the eligible words to be used as outputs
+#prompt user for input - show all the input options available
+	#show an error message if a user inputs a value that is not valid
+#store the input and find which values in the dictionary have the input in the defintion
+#write some logic to return the values
+#write some logic to also return some alternative defintions that may also be suitable even though the input isn't in the definiton.
+#display the definitions to the user

@@ -1,0 +1,10 @@
+User flow for 'At a loss for words'
+
+User is prompted to enter to how they're feeling.
+Based on the input, the user is returned a series of words and definitions from http://www.drtimlomas.com/#!alphabetical-lexicography/b5ojm
+
+I'll scope this down by only allowing the user to select from an array of input options.
+Additionally, the returned definitions will only return a subset of options from the dictionary.
+
+The user will then be presented with a an alphabetically ordered lists of possible words that they could use based on their input.
+
